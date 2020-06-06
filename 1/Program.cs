@@ -72,7 +72,7 @@ namespace _1
                               $"{Book1.CodeOfBook} \n" +
                               $"{Book1.PagesCount} \n" +
                               $"{collectable1}");
-
+            Console.ReadLine();
 
         }
     }
